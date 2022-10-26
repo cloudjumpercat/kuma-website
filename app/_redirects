@@ -27,6 +27,9 @@ rinstall/1.1.6/* /install/1.1.x/:splat 301
 
 # Docs
 
+/docs/latest/quickstart/universal/ https://kuma.io/docs/latest/get-started/universal-demo/  301
+docs/latest/quickstart/kubernetes/ https://kuma.io/docs/latest/get-started/kubernetes-demo/  301
+
 /docs /docs/2.0.x 301
 /docs/latest/documentation/gateway /docs/1.8.x/explore/gateway 301
 /docs/latest/deployments /docs/:version/1.8.x/deployments 301
