@@ -1,6 +1,4 @@
----
-title: kumactl generate zone-ingress-token
----
+## kumactl generate zone-ingress-token
 
 Generate Zone Ingress Token
 
@@ -40,5 +38,5 @@ $ kumactl generate zone-ingress-token --zone zone-1 --valid-for 30d
 
 ### SEE ALSO
 
-* [kumactl generate](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_generate)	 - Generate resources, tokens, etc
+* [kumactl generate](kumactl_generate.md)	 - Generate resources, tokens, etc
 

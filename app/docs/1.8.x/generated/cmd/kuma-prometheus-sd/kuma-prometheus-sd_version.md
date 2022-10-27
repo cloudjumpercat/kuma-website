@@ -1,6 +1,4 @@
----
-title: kuma-prometheus-sd version
----
+## kuma-prometheus-sd version
 
 Print version
 
@@ -31,5 +29,5 @@ kuma-prometheus-sd version [flags]
 
 ### SEE ALSO
 
-* [kuma-prometheus-sd](/docs/{{ page.version }}/generated/cmd/kuma-prometheus-sd/kuma-prometheus-sd/)	 - [DEPRECATED] Prometheus service discovery adapter for native integration with Kuma
+* [kuma-prometheus-sd](kuma-prometheus-sd.md)	 - [DEPRECATED] Prometheus service discovery adapter for native integration with Kuma
 

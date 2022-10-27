@@ -1,6 +1,4 @@
----
-title: Timeout
----
+## Timeout
 
 - `sources` (required, repeated)
 

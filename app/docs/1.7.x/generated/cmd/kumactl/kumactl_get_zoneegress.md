@@ -1,6 +1,4 @@
----
-title: kumactl get zoneegress
----
+## kumactl get zoneegress
 
 Show a single ZoneEgress resource
 
@@ -31,5 +29,5 @@ kumactl get zoneegress NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

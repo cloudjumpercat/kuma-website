@@ -1,6 +1,4 @@
----
-title: kumactl config view
----
+## kumactl config view
 
 Show kumactl config
 
@@ -29,5 +27,5 @@ kumactl config view [flags]
 
 ### SEE ALSO
 
-* [kumactl config](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_config)	 - Manage kumactl config
+* [kumactl config](kumactl_config.md)	 - Manage kumactl config
 

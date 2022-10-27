@@ -1,6 +1,4 @@
----
-title: Mesh
----
+## Mesh
 
 - `mtls` (optional)
 

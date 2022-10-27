@@ -1,6 +1,4 @@
----
-title: kumactl inspect zoneingress
----
+## kumactl inspect zoneingress
 
 Inspect ZoneIngress
 
@@ -31,5 +29,5 @@ kumactl inspect zoneingress NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect)	 - Inspect Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
 

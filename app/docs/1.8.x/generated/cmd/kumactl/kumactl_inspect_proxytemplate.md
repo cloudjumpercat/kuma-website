@@ -1,6 +1,4 @@
----
-title: kumactl inspect proxytemplate
----
+## kumactl inspect proxytemplate
 
 Inspect ProxyTemplate
 
@@ -30,5 +28,5 @@ kumactl inspect proxytemplate NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect)	 - Inspect Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
 

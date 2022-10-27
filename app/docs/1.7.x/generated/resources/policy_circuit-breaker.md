@@ -1,6 +1,4 @@
----
-title: CircuitBreaker
----
+## CircuitBreaker
 
 - `sources` (required, repeated)
 

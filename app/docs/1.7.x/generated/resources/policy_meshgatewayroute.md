@@ -1,6 +1,4 @@
----
-title: MeshGatewayRoute
----
+## MeshGatewayRoute
 
 - `selectors` (required, repeated)
 

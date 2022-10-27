@@ -1,6 +1,4 @@
----
-title: kumactl get traffic-routes
----
+## kumactl get traffic-routes
 
 Show TrafficRoute
 
@@ -33,5 +31,5 @@ kumactl get traffic-routes [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

@@ -1,6 +1,4 @@
----
-title: kuma-cp version
----
+## kuma-cp version
 
 Print version
 
@@ -31,5 +29,5 @@ kuma-cp version [flags]
 
 ### SEE ALSO
 
-* [kuma-cp](/docs/{{ page.version }}/generated/cmd/kuma-cp/kuma-cp)	 - Universal Control Plane for Envoy-based Service Mesh
+* [kuma-cp](kuma-cp.md)	 - Universal Control Plane for Envoy-based Service Mesh
 

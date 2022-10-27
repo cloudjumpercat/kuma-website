@@ -1,6 +1,4 @@
----
-title: kumactl
----
+## kumactl
 
 Management tool for Kuma
 
@@ -20,14 +18,14 @@ Management tool for Kuma.
 
 ### SEE ALSO
 
-* [kumactl apply](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_apply)	 - Create or modify Kuma resources
-* [kumactl completion](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_completion)	 - Output shell completion code for bash, fish or zsh
-* [kumactl config](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_config)	 - Manage kumactl config
-* [kumactl delete](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_delete)	 - Delete Kuma resources
-* [kumactl generate](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_generate)	 - Generate resources, tokens, etc
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
-* [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect)	 - Inspect Kuma resources
-* [kumactl install](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_install)	 - Install various Kuma components.
-* [kumactl uninstall](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_uninstall)	 - Uninstall various Kuma components.
-* [kumactl version](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_version)	 - Print version
+* [kumactl apply](kumactl_apply.md)	 - Create or modify Kuma resources
+* [kumactl completion](kumactl_completion.md)	 - Output shell completion code for bash, fish or zsh
+* [kumactl config](kumactl_config.md)	 - Manage kumactl config
+* [kumactl delete](kumactl_delete.md)	 - Delete Kuma resources
+* [kumactl generate](kumactl_generate.md)	 - Generate resources, tokens, etc
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
+* [kumactl install](kumactl_install.md)	 - Install various Kuma components.
+* [kumactl uninstall](kumactl_uninstall.md)	 - Uninstall various Kuma components.
+* [kumactl version](kumactl_version.md)	 - Print version
 

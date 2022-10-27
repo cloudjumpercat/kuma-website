@@ -1,6 +1,4 @@
----
-title: kuma-dp
----
+## kuma-dp
 
 Dataplane manager for Envoy-based Service Mesh
 
@@ -21,6 +19,6 @@ Dataplane manager for Envoy-based Service Mesh.
 
 ### SEE ALSO
 
-* [kuma-dp run](/docs/{{ page.version }}/generated/cmd/kuma-dp/kuma-dp_run)	 - Launch Dataplane (Envoy)
-* [kuma-dp version](/docs/{{ page.version }}/generated/cmd/kuma-dp/kuma-dp_version)	 - Print version
+* [kuma-dp run](kuma-dp_run.md)	 - Launch Dataplane (Envoy)
+* [kuma-dp version](kuma-dp_version.md)	 - Print version
 

@@ -1,6 +1,4 @@
----
-title: VirtualOutbound
----
+## VirtualOutbound
 
 - `selectors` (required, repeated)
 

@@ -1,6 +1,4 @@
----
-title: ExternalService
----
+## ExternalService
 
 - `networking` (required)
 

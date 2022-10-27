@@ -1,6 +1,4 @@
----
-title: kumactl get zone-ingresses
----
+## kumactl get zone-ingresses
 
 Show ZoneIngress
 
@@ -33,5 +31,5 @@ kumactl get zone-ingresses [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

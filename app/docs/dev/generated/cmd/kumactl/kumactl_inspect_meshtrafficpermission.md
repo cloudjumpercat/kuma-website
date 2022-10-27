@@ -1,6 +1,4 @@
----
-title: kumactl inspect meshtrafficpermission
----
+## kumactl inspect meshtrafficpermission
 
 Inspect MeshTrafficPermission
 
@@ -30,5 +28,5 @@ kumactl inspect meshtrafficpermission NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect)	 - Inspect Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
 

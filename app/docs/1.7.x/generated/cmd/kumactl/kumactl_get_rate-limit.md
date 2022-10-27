@@ -1,6 +1,4 @@
----
-title: kumactl get rate-limit
----
+## kumactl get rate-limit
 
 Show a single RateLimit resource
 
@@ -31,5 +29,5 @@ kumactl get rate-limit NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

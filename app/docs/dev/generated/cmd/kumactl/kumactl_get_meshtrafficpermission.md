@@ -1,6 +1,4 @@
----
-title: kumactl get meshtrafficpermission
----
+## kumactl get meshtrafficpermission
 
 Show a single MeshTrafficPermission resource
 
@@ -31,5 +29,5 @@ kumactl get meshtrafficpermission NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

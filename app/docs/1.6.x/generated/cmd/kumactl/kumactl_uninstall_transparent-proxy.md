@@ -1,12 +1,10 @@
----
-title: kumactl uninstall transparent-proxy
----
+## kumactl uninstall transparent-proxy
 
 Uninstall Transparent Proxy pre-requisites on the host
 
 ### Synopsis
 
-Uninstall Transparent Proxy by restoring the hosts iptables and /etc/resolv.conf or removing leftover ebpf objects
+Uninstall Transparent Proxy by restoring the hosts iptables and /etc/resolv.conf
 
 ```
 kumactl uninstall transparent-proxy [flags]
@@ -15,11 +13,9 @@ kumactl uninstall transparent-proxy [flags]
 ### Options
 
 ```
-      --dry-run                  dry run
-      --ebpf-bpffs-path string   the path of the BPF filesystem (default "/sys/fs/bpf")
-      --ebpf-enabled             uninstall transparent proxy with ebpf mode
-  -h, --help                     help for transparent-proxy
-      --verbose                  verbose
+      --dry-run   dry run
+  -h, --help      help for transparent-proxy
+      --verbose   verbose
 ```
 
 ### Options inherited from parent commands
@@ -33,5 +29,5 @@ kumactl uninstall transparent-proxy [flags]
 
 ### SEE ALSO
 
-* [kumactl uninstall](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_uninstall)	 - Uninstall various Kuma components.
+* [kumactl uninstall](kumactl_uninstall.md)	 - Uninstall various Kuma components.
 

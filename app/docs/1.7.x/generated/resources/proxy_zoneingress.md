@@ -1,6 +1,4 @@
----
-title: ZoneIngress
----
+## ZoneIngress
 
 - `zone` (optional)
 

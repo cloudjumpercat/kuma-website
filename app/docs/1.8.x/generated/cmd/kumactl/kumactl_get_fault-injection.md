@@ -1,6 +1,4 @@
----
-title: kumactl get fault-injection
----
+## kumactl get fault-injection
 
 Show a single FaultInjection resource
 
@@ -31,5 +29,5 @@ kumactl get fault-injection NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

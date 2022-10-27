@@ -1,6 +1,4 @@
----
-title: FaultInjection
----
+## FaultInjection
 
 - `sources` (required, repeated)
 

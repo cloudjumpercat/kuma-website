@@ -1,6 +1,4 @@
----
-title: kuma-prometheus-sd
----
+## kuma-prometheus-sd
 
 [DEPRECATED] Prometheus service discovery adapter for native integration with Kuma
 
@@ -24,6 +22,6 @@ See: https://prometheus.io/docs/prometheus/latest/configuration/configuration/#k
 
 ### SEE ALSO
 
-* [kuma-prometheus-sd run](/docs/{{ page.version }}/generated/cmd/kuma-prometheus-sd/kuma-prometheus-sd_run/)	 - Launch Kuma Prometheus SD adapter
-* [kuma-prometheus-sd version](/docs/{{ page.version }}/generated/cmd/kuma-prometheus-sd/kuma-prometheus-sd_version/)	 - Print version
+* [kuma-prometheus-sd run](kuma-prometheus-sd_run.md)	 - Launch Kuma Prometheus SD adapter
+* [kuma-prometheus-sd version](kuma-prometheus-sd_version.md)	 - Print version
 

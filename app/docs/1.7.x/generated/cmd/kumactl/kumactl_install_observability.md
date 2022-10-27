@@ -1,6 +1,4 @@
----
-title: kumactl install observability
----
+## kumactl install observability
 
 Install Observability (Metrics, Logging, Tracing) backend in Kubernetes cluster (Prometheus + Grafana + Loki + Jaeger + Zipkin)
 
@@ -36,5 +34,5 @@ kumactl install observability [flags]
 
 ### SEE ALSO
 
-* [kumactl install](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_install)	 - Install various Kuma components.
+* [kumactl install](kumactl_install.md)	 - Install various Kuma components.
 

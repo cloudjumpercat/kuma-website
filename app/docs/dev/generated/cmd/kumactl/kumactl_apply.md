@@ -1,6 +1,4 @@
----
-title: kumactl apply
----
+## kumactl apply
 
 Create or modify Kuma resources
 
@@ -50,5 +48,5 @@ $ kumactl apply -f https://example.com/resource.yaml
 
 ### SEE ALSO
 
-* [kumactl](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl)	 - Management tool for Kuma
+* [kumactl](kumactl.md)	 - Management tool for Kuma
 

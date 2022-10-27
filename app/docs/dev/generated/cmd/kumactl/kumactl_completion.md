@@ -1,6 +1,4 @@
----
-title: kumactl completion
----
+## kumactl completion
 
 Output shell completion code for bash, fish or zsh
 
@@ -43,8 +41,8 @@ Note for zsh users: [1] zsh completions are only supported in versions of zsh >=
 
 ### SEE ALSO
 
-* [kumactl](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl)	 - Management tool for Kuma
-* [kumactl completion bash](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_completion_bash)	 - Output shell completions for bash
-* [kumactl completion fish](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_completion_fish)	 - Output shell completions for fish
-* [kumactl completion zsh](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_completion_zsh)	 - Output shell completions for zsh
+* [kumactl](kumactl.md)	 - Management tool for Kuma
+* [kumactl completion bash](kumactl_completion_bash.md)	 - Output shell completions for bash
+* [kumactl completion fish](kumactl_completion_fish.md)	 - Output shell completions for fish
+* [kumactl completion zsh](kumactl_completion_zsh.md)	 - Output shell completions for zsh
 

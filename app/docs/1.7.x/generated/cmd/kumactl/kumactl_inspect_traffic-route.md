@@ -1,6 +1,4 @@
----
-title: kumactl inspect traffic-route
----
+## kumactl inspect traffic-route
 
 Inspect TrafficRoute
 
@@ -30,5 +28,5 @@ kumactl inspect traffic-route NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect)	 - Inspect Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
 

@@ -1,6 +1,4 @@
----
-title: kumactl get traffic-permission
----
+## kumactl get traffic-permission
 
 Show a single TrafficPermission resource
 
@@ -31,5 +29,5 @@ kumactl get traffic-permission NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

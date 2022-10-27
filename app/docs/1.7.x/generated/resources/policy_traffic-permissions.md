@@ -1,6 +1,4 @@
----
-title: TrafficPermission
----
+## TrafficPermission
 
 - `sources` (required, repeated)
 

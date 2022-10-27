@@ -1,6 +1,4 @@
----
-title: kumactl delete
----
+## kumactl delete
 
 Delete Kuma resources
 
@@ -30,5 +28,5 @@ kumactl delete TYPE NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl)	 - Management tool for Kuma
+* [kumactl](kumactl.md)	 - Management tool for Kuma
 

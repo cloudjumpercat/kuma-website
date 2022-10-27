@@ -1,6 +1,4 @@
----
-title: kuma-dp run
----
+## kuma-dp run
 
 Launch Dataplane (Envoy)
 
@@ -51,5 +49,5 @@ kuma-dp run [flags]
 
 ### SEE ALSO
 
-* [kuma-dp](/docs/{{ page.version }}/generated/cmd/kuma-dp/kuma-dp)	 - Dataplane manager for Envoy-based Service Mesh
+* [kuma-dp](kuma-dp.md)	 - Dataplane manager for Envoy-based Service Mesh
 

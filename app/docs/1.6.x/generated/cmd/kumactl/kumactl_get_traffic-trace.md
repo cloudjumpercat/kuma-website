@@ -1,6 +1,4 @@
----
-title: kumactl get traffic-trace
----
+## kumactl get traffic-trace
 
 Show a single TrafficTrace resource
 
@@ -31,5 +29,5 @@ kumactl get traffic-trace NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

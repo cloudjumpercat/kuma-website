@@ -1,6 +1,4 @@
----
-title: kumactl generate dataplane-token
----
+## kumactl generate dataplane-token
 
 Generate Dataplane Token
 
@@ -52,5 +50,5 @@ $ kumactl generate dataplane-token --mesh demo --tag kuma.io/service=web,web-api
 
 ### SEE ALSO
 
-* [kumactl generate](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_generate)	 - Generate resources, tokens, etc
+* [kumactl generate](kumactl_generate.md)	 - Generate resources, tokens, etc
 

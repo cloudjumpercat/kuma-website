@@ -1,6 +1,4 @@
----
-title: kumactl get dataplane
----
+## kumactl get dataplane
 
 Show a single Dataplane resource
 
@@ -31,5 +29,5 @@ kumactl get dataplane NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

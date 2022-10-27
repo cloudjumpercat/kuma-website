@@ -1,6 +1,4 @@
----
-title: kumactl uninstall transparent-proxy
----
+## kumactl uninstall transparent-proxy
 
 Uninstall Transparent Proxy pre-requisites on the host
 
@@ -31,5 +29,5 @@ kumactl uninstall transparent-proxy [flags]
 
 ### SEE ALSO
 
-* [kumactl uninstall](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_uninstall)	 - Uninstall various Kuma components.
+* [kumactl uninstall](kumactl_uninstall.md)	 - Uninstall various Kuma components.
 

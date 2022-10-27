@@ -1,6 +1,4 @@
----
-title: kumactl inspect meshtrace
----
+## kumactl inspect meshtrace
 
 Inspect MeshTrace
 
@@ -30,4 +28,5 @@ kumactl inspect meshtrace NAME [flags]
 
 ### SEE ALSO
 
-- [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect) - Inspect Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
+

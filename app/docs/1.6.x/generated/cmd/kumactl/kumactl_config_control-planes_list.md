@@ -1,6 +1,4 @@
----
-title: kumactl config control-planes list
----
+## kumactl config control-planes list
 
 List Control Planes
 
@@ -29,5 +27,5 @@ kumactl config control-planes list [flags]
 
 ### SEE ALSO
 
-* [kumactl config control-planes](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_config_control-planes)	 - Manage known Control Planes
+* [kumactl config control-planes](kumactl_config_control-planes.md)	 - Manage known Control Planes
 

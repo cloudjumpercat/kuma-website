@@ -1,6 +1,4 @@
----
-title: kumactl install control-plane
----
+## kumactl install control-plane
 
 Install Kuma Control Plane on Kubernetes
 
@@ -80,5 +78,5 @@ kumactl install control-plane [flags]
 
 ### SEE ALSO
 
-* [kumactl install](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_install)	 - Install various Kuma components.
+* [kumactl install](kumactl_install.md)	 - Install various Kuma components.
 

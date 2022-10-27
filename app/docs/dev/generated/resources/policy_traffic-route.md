@@ -1,6 +1,4 @@
----
-title: TrafficRoute
----
+## TrafficRoute
 
 - `sources` (required, repeated)
 

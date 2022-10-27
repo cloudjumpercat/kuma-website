@@ -1,6 +1,4 @@
----
-title: TrafficLog
----
+## TrafficLog
 
 - `sources` (required, repeated)
 

@@ -1,6 +1,4 @@
----
-title: kumactl generate zone-token
----
+## kumactl generate zone-token
 
 Generate Zone Token
 
@@ -40,5 +38,5 @@ $ kumactl generate zone-token --zone zone-1 --valid-for 24h --scope egress
 
 ### SEE ALSO
 
-* [kumactl generate](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_generate)	 - Generate resources, tokens, etc
+* [kumactl generate](kumactl_generate.md)	 - Generate resources, tokens, etc
 

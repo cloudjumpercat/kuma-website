@@ -1,6 +1,4 @@
----
-title: kumactl get circuit-breaker
----
+## kumactl get circuit-breaker
 
 Show a single CircuitBreaker resource
 
@@ -31,5 +29,5 @@ kumactl get circuit-breaker NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

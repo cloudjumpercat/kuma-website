@@ -1,6 +1,4 @@
----
-title: kumactl install crds
----
+## kumactl install crds
 
 Install Kuma Custom Resource Definitions on Kubernetes
 
@@ -27,5 +25,5 @@ kumactl install crds [flags]
 
 ### SEE ALSO
 
-* [kumactl install](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_install)	 - Install various Kuma components.
+* [kumactl install](kumactl_install.md)	 - Install various Kuma components.
 

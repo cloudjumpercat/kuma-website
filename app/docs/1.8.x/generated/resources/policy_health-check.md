@@ -1,6 +1,4 @@
----
-title: HealthCheck
----
+## HealthCheck
 
 - `sources` (required, repeated)
 

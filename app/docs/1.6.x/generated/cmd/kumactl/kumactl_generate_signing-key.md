@@ -1,6 +1,4 @@
----
-title: kumactl generate signing-key
----
+## kumactl generate signing-key
 
 Generate signing keys
 
@@ -54,5 +52,5 @@ type: system.kuma.io/global-secret
 
 ### SEE ALSO
 
-* [kumactl generate](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_generate)	 - Generate resources, tokens, etc
+* [kumactl generate](kumactl_generate.md)	 - Generate resources, tokens, etc
 

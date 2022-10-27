@@ -1,6 +1,4 @@
----
-title: kumactl get virtual-outbound
----
+## kumactl get virtual-outbound
 
 Show a single VirtualOutbound resource
 
@@ -31,5 +29,5 @@ kumactl get virtual-outbound NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

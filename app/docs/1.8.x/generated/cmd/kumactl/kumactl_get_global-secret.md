@@ -1,6 +1,4 @@
----
-title: kumactl get global-secret
----
+## kumactl get global-secret
 
 Show a single GlobalSecret resource
 
@@ -31,5 +29,5 @@ kumactl get global-secret NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

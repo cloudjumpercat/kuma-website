@@ -1,6 +1,4 @@
----
-title: kumactl generate user-token
----
+## kumactl generate user-token
 
 Generate User Token
 
@@ -41,5 +39,5 @@ $ kumactl generate user-token --name john.doe@example.com --group users --valid-
 
 ### SEE ALSO
 
-* [kumactl generate](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_generate)	 - Generate resources, tokens, etc
+* [kumactl generate](kumactl_generate.md)	 - Generate resources, tokens, etc
 

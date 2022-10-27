@@ -1,6 +1,4 @@
----
-title: kumactl completion fish
----
+## kumactl completion fish
 
 Output shell completions for fish
 
@@ -25,5 +23,5 @@ kumactl completion fish [flags]
 
 ### SEE ALSO
 
-* [kumactl completion](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_completion)	 - Output shell completion code for bash, fish or zsh
+* [kumactl completion](kumactl_completion.md)	 - Output shell completion code for bash, fish or zsh
 

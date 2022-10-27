@@ -1,6 +1,4 @@
----
-title: kumactl get timeout
----
+## kumactl get timeout
 
 Show a single Timeout resource
 
@@ -31,5 +29,5 @@ kumactl get timeout NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

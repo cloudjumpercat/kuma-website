@@ -1,6 +1,4 @@
----
-title: kumactl inspect services
----
+## kumactl inspect services
 
 Inspect Services
 
@@ -31,5 +29,5 @@ kumactl inspect services [flags]
 
 ### SEE ALSO
 
-* [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect)	 - Inspect Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
 

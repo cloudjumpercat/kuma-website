@@ -1,6 +1,4 @@
----
-title: kumactl get external-service
----
+## kumactl get external-service
 
 Show a single ExternalService resource
 
@@ -31,5 +29,5 @@ kumactl get external-service NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

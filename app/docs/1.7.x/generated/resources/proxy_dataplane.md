@@ -1,6 +1,4 @@
----
-title: Dataplane
----
+## Dataplane
 
 - `networking` (optional)
 

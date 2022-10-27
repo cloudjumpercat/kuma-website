@@ -1,6 +1,4 @@
----
-title: ProxyTemplate
----
+## ProxyTemplate
 
 - `selectors` (required, repeated)
 

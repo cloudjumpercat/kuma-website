@@ -1,6 +1,4 @@
----
-title: kumactl version
----
+## kumactl version
 
 Print version
 
@@ -30,5 +28,5 @@ kumactl version [flags]
 
 ### SEE ALSO
 
-* [kumactl](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl)	 - Management tool for Kuma
+* [kumactl](kumactl.md)	 - Management tool for Kuma
 

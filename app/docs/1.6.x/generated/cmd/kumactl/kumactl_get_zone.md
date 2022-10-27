@@ -1,6 +1,4 @@
----
-title: kumactl get zone
----
+## kumactl get zone
 
 Show a single Zone resource
 
@@ -31,5 +29,5 @@ kumactl get zone NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

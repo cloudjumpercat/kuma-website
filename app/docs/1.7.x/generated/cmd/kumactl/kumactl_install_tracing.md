@@ -1,6 +1,4 @@
----
-title: kumactl install tracing
----
+## kumactl install tracing
 
 Install Tracing backend in Kubernetes cluster (Jaeger)
 
@@ -30,5 +28,5 @@ kumactl install tracing [flags]
 
 ### SEE ALSO
 
-* [kumactl install](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_install)	 - Install various Kuma components.
+* [kumactl install](kumactl_install.md)	 - Install various Kuma components.
 

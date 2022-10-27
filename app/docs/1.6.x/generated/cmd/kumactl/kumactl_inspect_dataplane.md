@@ -1,6 +1,4 @@
----
-title: kumactl inspect dataplane
----
+## kumactl inspect dataplane
 
 Inspect Dataplane
 
@@ -31,5 +29,5 @@ kumactl inspect dataplane NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect)	 - Inspect Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
 

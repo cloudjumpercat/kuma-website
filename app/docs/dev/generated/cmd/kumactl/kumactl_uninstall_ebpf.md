@@ -1,6 +1,4 @@
----
-title: kumactl uninstall ebpf
----
+## kumactl uninstall ebpf
 
 Uninstall BPF files from the nodes
 
@@ -37,4 +35,5 @@ kumactl uninstall ebpf [flags]
 
 ### SEE ALSO
 
-- [kumactl uninstall](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_uninstall) - Uninstall various Kuma components.
+* [kumactl uninstall](kumactl_uninstall.md)	 - Uninstall various Kuma components.
+

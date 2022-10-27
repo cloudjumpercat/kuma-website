@@ -1,6 +1,4 @@
----
-title: kumactl get meshtrace
----
+## kumactl get meshtrace
 
 Show a single MeshTrace resource
 
@@ -31,5 +29,5 @@ kumactl get meshtrace NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl get](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_get/)	 - Show Kuma resources
+* [kumactl get](kumactl_get.md)	 - Show Kuma resources
 

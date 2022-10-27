@@ -1,6 +1,4 @@
----
-title: MeshGateway
----
+## MeshGateway
 
 - `selectors` (optional, repeated)
 

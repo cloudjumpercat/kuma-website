@@ -1,6 +1,4 @@
----
-title: kumactl install dns
----
+## kumactl install dns
 
 Install DNS to Kubernetes
 
@@ -32,5 +30,5 @@ kumactl install dns [flags]
 
 ### SEE ALSO
 
-* [kumactl install](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_install)	 - Install various Kuma components.
+* [kumactl install](kumactl_install.md)	 - Install various Kuma components.
 

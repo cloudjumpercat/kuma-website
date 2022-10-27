@@ -1,6 +1,4 @@
----
-title: kumactl install logging
----
+## kumactl install logging
 
 Install Logging backend in Kubernetes cluster (Loki)
 
@@ -30,5 +28,5 @@ kumactl install logging [flags]
 
 ### SEE ALSO
 
-* [kumactl install](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_install)	 - Install various Kuma components.
+* [kumactl install](kumactl_install.md)	 - Install various Kuma components.
 

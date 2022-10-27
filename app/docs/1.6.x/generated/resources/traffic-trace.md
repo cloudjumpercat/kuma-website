@@ -1,6 +1,4 @@
----
-title: TrafficTrace
----
+## TrafficTrace
 
 - `selectors` (required, repeated)
 

@@ -1,12 +1,13 @@
----
-title: kumactl generate zone-ingress-token
----
+## kumactl generate zone-ingress-token
 
 Generate Zone Ingress Token
 
 ### Synopsis
 
 Generate Zone Ingress Token that is used to prove Zone Ingress identity.
+
+DEPRECATED: Use kumactl generate zone-token --scope=ingress instead.
+
 
 ```
 kumactl generate zone-ingress-token [flags]
@@ -40,5 +41,5 @@ $ kumactl generate zone-ingress-token --zone zone-1 --valid-for 30d
 
 ### SEE ALSO
 
-* [kumactl generate](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_generate)	 - Generate resources, tokens, etc
+* [kumactl generate](kumactl_generate.md)	 - Generate resources, tokens, etc
 

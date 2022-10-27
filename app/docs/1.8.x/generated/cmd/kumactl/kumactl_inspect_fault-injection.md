@@ -1,6 +1,4 @@
----
-title: kumactl inspect fault-injection
----
+## kumactl inspect fault-injection
 
 Inspect FaultInjection
 
@@ -30,5 +28,5 @@ kumactl inspect fault-injection NAME [flags]
 
 ### SEE ALSO
 
-* [kumactl inspect](/docs/{{ page.version }}/generated/cmd/kumactl/kumactl_inspect)	 - Inspect Kuma resources
+* [kumactl inspect](kumactl_inspect.md)	 - Inspect Kuma resources
 
