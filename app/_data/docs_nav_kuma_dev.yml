@@ -566,6 +566,11 @@ items:
             url: "/policies/meshloadbalancingstrategy/#configuration"
           - text: Examples
             url: "/policies/meshloadbalancingstrategy/#examples"
+  - title: Guides
+    group: true
+    items:
+      - text: Create low-latency, multi-region apps
+        url: /guides/low-latency-multi-region/
   - title: Reference
     group: true
     items:
